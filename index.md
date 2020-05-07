@@ -3,9 +3,9 @@
 The following is a brief description of my experience as a developer, so as to provide a well rounded understanding of my capabilties in the field.
 
 ### Interests
-  ●	Computer Hardware & Software <br />
-  ●	PC & Console Gaming <br />
-  ●	Physical Fitness & Conditioning <br />
+  ●	Computer Hardware & Software <br/>
+  ●	PC & Console Gaming <br/>
+  ●	Physical Fitness & Conditioning <br/>
 
 ### Skills
 Project Management.
